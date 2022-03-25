@@ -2,7 +2,7 @@
 :octocat:
 # Today I Learned(TIL) Wiki
 
-[![Blog](https://img.shields.io/badge/Blog-ryurim.tistory.com-yellow.svg)](https://ryurim.tistory.com/)
+[![Blog](https://img.shields.io/badge/Blog-kangmoon.tistory.com-red.svg)](https://groloper.tistory.com/)
 
 ## Javascript
 
